@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+}
+
+.colorstrip {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    diplay: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.colorcontainer {
+    display: flex;
+    flex-direction: column;
+    margin-left; 10px;
+    margin-right: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.colorbox {
+    width: 100px;
+    height: 100px;
+}
+
+.colorname {
+
+}
+
